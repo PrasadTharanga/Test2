@@ -1,4 +1,1 @@
-# Test2
-Git testing
-checking new fetures of Github  wweellccoommee
-
+I am editing the README file. Adding some more details about the project description.
